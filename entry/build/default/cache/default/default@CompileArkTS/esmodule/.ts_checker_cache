@@ -1,0 +1,578 @@
+{
+  "runtimeOS": "OpenHarmony",
+  "sdkInfo": "true:10:4.0.10.13:Release",
+  "fileList": {
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets": {
+      "mtimeMs": 1714121236000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1713936328000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\HomePage.ets": {
+      "mtimeMs": 1714138604000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage.ets": {
+      "mtimeMs": 1714139076000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\exerciseCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\HealthDataCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage.ets": {
+      "mtimeMs": 1714139542000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\communityServiceCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\MinePage.ets": {
+      "mtimeMs": 1714139888000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\interestCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\WelcomePagePackage\\WelcomePage.ets": {
+      "mtimeMs": 1714382606673.5637,
+      "children": [],
+      "parent": [],
+      "error": true
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\GuidancePage.ets": {
+      "mtimeMs": 1714136778000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_Gender_Age.ets": {
+      "mtimeMs": 1714137778000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\bottomNextStep.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\Progressbar.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\progressbar.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_height_weight.ets": {
+      "mtimeMs": 1714138260000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\bottomNextStep.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\progressbar.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_condition.ets": {
+      "mtimeMs": 1714138280000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\bottomNextStep.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DiseaseCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\Progressbar.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_like.ets": {
+      "mtimeMs": 1714138294000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\bottomNextStep.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DiseaseCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\exerciseCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\Progressbar.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage2.ets": {
+      "mtimeMs": 1714139260000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExerciseDataCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\exerciseRecommendCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage2.ets": {
+      "mtimeMs": 1714139648000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\postCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_day.ets": {
+      "mtimeMs": 1714138810000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\TimeChooser.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_week.ets": {
+      "mtimeMs": 1714138922000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\TimeChooser.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_month.ets": {
+      "mtimeMs": 1714138874000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\TimeChooser.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_year.ets": {
+      "mtimeMs": 1714138986000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\TimeChooser.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\CoinExchangeAwardPage.ets": {
+      "mtimeMs": 1714144616000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\AwardCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\test01.ets": {
+      "mtimeMs": 1714118460000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\searchHeader.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\test02.ets": {
+      "mtimeMs": 1714118824000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\searchHeader.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExerciseDataCard.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\exerciseRecommendCard.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\Survey.ets": {
+      "mtimeMs": 1714121728000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.UIAbility.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.Ability.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.Configuration.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\application\\UIAbilityContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\bundleManager\\AbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\bundleManager\\ApplicationInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.bundle.bundleManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\bundleManager\\BundleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\bundleManager\\HapModuleInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\bundleManager\\ExtensionAbilityInfo.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\ability\\abilityResult.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\ability\\connectOptions.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.rpc.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\application\\Context.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.resourceManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.arkui.drawableDescriptor.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.multimedia.image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\application\\ApplicationContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.window.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\component\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.data.unifiedDataChannel.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.arkui.UIContext.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.mediaquery.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\component\\units.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.promptAction.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.router.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.EnvironmentCallback.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\application\\ProcessInformation.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.appManager.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.app.ability.dialogRequest.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\bottomChooser.ets": {
+      "mtimeMs": 1714113720000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\HomePage.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\MinePage.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage2.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage2.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_day.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_week.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_month.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_year.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\test01.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\test02.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\exerciseCard.ets": {
+      "mtimeMs": 1714120796000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_like.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\HealthDataCard.ets": {
+      "mtimeMs": 1713975322000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\communityServiceCard.ets": {
+      "mtimeMs": 1714117672000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\interestCard.ets": {
+      "mtimeMs": 1713969488000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\MinePage.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\bottomNextStep.ets": {
+      "mtimeMs": 1714119232000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_Gender_Age.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_height_weight.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_condition.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_like.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\Progressbar.ets": {
+      "mtimeMs": 1713948254000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_Gender_Age.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_condition.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_like.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\progressbar.ets": {
+      "mtimeMs": 1713948254000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_Gender_Age.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoice_height_weight.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DiseaseCard.ets": {
+      "mtimeMs": 1714120772000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_condition.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\GuidancePagePackage\\DataChoicePage_like.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExerciseDataCard.ets": {
+      "mtimeMs": 1714113690000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage2.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\test02.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\exerciseRecommendCard.ets": {
+      "mtimeMs": 1714022444000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\ExercisePage2.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\test02.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\postCard.ets": {
+      "mtimeMs": 1714139720000,
+      "children": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityServiceCard.ets"
+      ],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityPage2.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\CommunityServiceCard.ets": {
+      "mtimeMs": 1714117672000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\CommunityPage\\postCard.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\TimeChooser.ets": {
+      "mtimeMs": 1714058170000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_day.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_week.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_month.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\StepDetailPagePackage\\StepDetailPage_year.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\AwardCard.ets": {
+      "mtimeMs": 1714144420000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\MinePagePackage\\CoinExchangeAwardPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\searchHeader.ets": {
+      "mtimeMs": 1714057632000,
+      "children": [],
+      "parent": [
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\HomePagePackage\\test01.ets",
+        "D:\\3S\\WUTSport\\entry\\src\\main\\ets\\view\\ExercisePagePackage\\test02.ets"
+      ],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.web.webview.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.security.cert.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\api\\@ohos.security.cryptoFramework.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\build-tools\\ets-loader\\declarations\\common.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\build-tools\\ets-loader\\declarations\\image.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\build-tools\\ets-loader\\declarations\\units.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    },
+    "D:\\arlUI-X\\API10\\10\\ets\\build-tools\\ets-loader\\declarations\\web.d.ts": {
+      "mtimeMs": 978278400000,
+      "children": [],
+      "parent": [],
+      "error": false
+    }
+  }
+}

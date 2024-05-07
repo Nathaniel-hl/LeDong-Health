@@ -1,0 +1,325 @@
+{
+    "record" : 
+    [
+        {
+            "id" : "0x01000000",
+            "name" : "app_name",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000001",
+            "name" : "app_icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000002",
+            "name" : "EntryAbility_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000003",
+            "name" : "EntryAbility_label",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000004",
+            "name" : "module_desc",
+            "type" : "string"
+        },
+        {
+            "id" : "0x01000005",
+            "name" : "start_window_background",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000006",
+            "name" : "icon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000007",
+            "name" : "main_pages",
+            "type" : "profile"
+        },
+        {
+            "id" : "0x01000008",
+            "name" : "background_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x01000009",
+            "name" : "bottom_chooser_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100000A",
+            "name" : "my_Coins_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100000B",
+            "name" : "themes_color",
+            "type" : "color"
+        },
+        {
+            "id" : "0x0100000C",
+            "name" : "activeDataPic1",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000D",
+            "name" : "activeDataPic2",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000E",
+            "name" : "appIconPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100000F",
+            "name" : "appNamePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000010",
+            "name" : "bicyclePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000011",
+            "name" : "boyPic_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000012",
+            "name" : "boyPic_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000013",
+            "name" : "card_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000014",
+            "name" : "card_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000015",
+            "name" : "circlePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000016",
+            "name" : "coinPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000017",
+            "name" : "communityPage_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000018",
+            "name" : "communityPage_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000019",
+            "name" : "dancePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001A",
+            "name" : "depressedPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001B",
+            "name" : "disease_bone_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001C",
+            "name" : "disease_headache_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001D",
+            "name" : "disease_indigestion_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001E",
+            "name" : "exercisePage_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100001F",
+            "name" : "exercisePage_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000020",
+            "name" : "exercise_card_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000021",
+            "name" : "exercise_healthdata_heart",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000022",
+            "name" : "exercise_healthdata_sleep",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000023",
+            "name" : "exercise_meditation_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000024",
+            "name" : "exercise_run_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000025",
+            "name" : "exercise_weightlifting_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000026",
+            "name" : "exercise_yoga_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000027",
+            "name" : "girlPic_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000028",
+            "name" : "girlPic_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000029",
+            "name" : "guidancePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002A",
+            "name" : "guidance_icon_pic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002B",
+            "name" : "headachePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002C",
+            "name" : "heartDiseasePic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002D",
+            "name" : "homePage_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002E",
+            "name" : "homePage_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100002F",
+            "name" : "hyperglycemiaPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000030",
+            "name" : "lihua",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000031",
+            "name" : "minePagePic1",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000032",
+            "name" : "minePagePic2",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000033",
+            "name" : "minePage_false",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000034",
+            "name" : "minePage_true",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000035",
+            "name" : "obesityPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000036",
+            "name" : "pastMedicalHistoryPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000037",
+            "name" : "progressbar",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000038",
+            "name" : "progressbar_20",
+            "type" : "media"
+        },
+        {
+            "id" : "0x01000039",
+            "name" : "runningPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003A",
+            "name" : "searchIcon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003B",
+            "name" : "speakInputIcon",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003C",
+            "name" : "stepNumPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003D",
+            "name" : "swimPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003E",
+            "name" : "walkPic",
+            "type" : "media"
+        },
+        {
+            "id" : "0x0100003F",
+            "name" : "yogaPic",
+            "type" : "media"
+        }
+    ]
+}
