@@ -1,0 +1,6 @@
+{
+  "crossplatform": true,     // 跨平台工程标识
+  "modules": [               // 跨平台模块配置
+    "entry"
+  ]
+}
