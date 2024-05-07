@@ -7,35 +7,56 @@
   "metrics": [
     {
       "type": "build_line",
+<<<<<<< Updated upstream
       "endTime": 1715066628816,
+=======
+      "endTime": 1715072783570,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "init",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715066628815
     },
     {
       "type": "build_line",
       "endTime": 1715066628817,
+=======
+      "startTime": 1715072783569
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072783571,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "CrossplatformInit",
       "taskPath": "LeDong-Health",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715066628817
     },
     {
       "type": "build_line",
       "endTime": 1715066628817,
+=======
+      "startTime": 1715072783571
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072783571,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "init",
       "taskPath": "LeDong-Health",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715066628817
     },
     {
@@ -74,111 +95,191 @@
     {
       "type": "build_line",
       "endTime": 1715068445880,
+=======
+      "startTime": 1715072783571
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072828822,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreBuild",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068445741
     },
     {
       "type": "build_line",
       "endTime": 1715068445882,
+=======
+      "startTime": 1715072828819
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072828824,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@MergeProfile",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068445880
     },
     {
       "type": "build_line",
       "endTime": 1715068445890,
+=======
+      "startTime": 1715072828823
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072828826,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@GenerateLoaderJson",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068445882
     },
     {
       "type": "build_line",
       "endTime": 1715068446008,
+=======
+      "startTime": 1715072828824
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072828828,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@ProcessProfile",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068445891
     },
     {
       "type": "build_line",
       "endTime": 1715068446008,
+=======
+      "startTime": 1715072828827
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072828828,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreviewProcessResource",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446008
     },
     {
       "type": "build_line",
       "endTime": 1715068446197,
+=======
+      "startTime": 1715072828828
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072829040,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreviewCompileResource",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446008
     },
     {
       "type": "build_line",
       "endTime": 1715068446197,
+=======
+      "startTime": 1715072828828
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072829040,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreviewHookCompileResource",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446197
     },
     {
       "type": "build_line",
       "endTime": 1715068446201,
+=======
+      "startTime": 1715072829040
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072829045,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@ReplacePreviewerPage",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446197
     },
     {
       "type": "build_line",
       "endTime": 1715068446202,
+=======
+      "startTime": 1715072829040
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072829045,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "buildPreviewerResource",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446201
     },
     {
       "type": "build_line",
       "endTime": 1715068446204,
+=======
+      "startTime": 1715072829045
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072829047,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreviewUpdateAssets",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068446202
     },
     {
@@ -294,23 +395,39 @@
     {
       "type": "build_line",
       "endTime": 1715068460126,
+=======
+      "startTime": 1715072829045
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072835084,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "default@PreviewArkTS",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068453400
     },
     {
       "type": "build_line",
       "endTime": 1715068460130,
+=======
+      "startTime": 1715072829047
+    },
+    {
+      "type": "build_line",
+      "endTime": 1715072835087,
+>>>>>>> Stashed changes
       "status": "closed",
       "children": [],
       "name": "overallTime",
       "taskName": "PreviewBuild",
       "taskPath": "entry",
       "workerId": -1,
+<<<<<<< Updated upstream
       "startTime": 1715068460130
     },
     {
@@ -1236,6 +1353,9 @@
       "taskPath": "entry",
       "workerId": -1,
       "startTime": 1715071838661
+=======
+      "startTime": 1715072835087
+>>>>>>> Stashed changes
     }
   ]
 }
