@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.wutsport.app-merged_res-5:/drawable_arkuix.png.flat",
+        "source": "com.example.wutsport.app-main-6:/drawable/arkuix.png"
+    },
+    {
+        "merged": "C:\\Users\\Nathaniel\\.gradle\\daemon\\7.5\\com.example.wutsport.app-merged_res-5:\\drawable_arkuix.png.flat",
+        "source": "C:\\Users\\Nathaniel\\.gradle\\daemon\\7.5\\com.example.wutsport.app-main-6:\\drawable\\arkuix.png"
+    }
+]
