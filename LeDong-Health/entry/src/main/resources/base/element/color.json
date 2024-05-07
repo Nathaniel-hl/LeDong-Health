@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_color",
+      "value": "#FEFAEE"
+    },
+    {
+      "name": "bottom_chooser_color",
+      "value": "#EED9BC"
+    },
+    {
+      "name": "themes_color",
+      "value": "#FE8109"
+    },
+    {
+      "name": "my_Coins_color",
+      "value": "#EED9BC"
+    }
+  ]
+}
