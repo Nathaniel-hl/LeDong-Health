@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207854339783",
+    "appName": "乐动健康",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "388421841222138362",
+    "projectName": "乐动健康",
+    "siteId": "CN"
+  },
+  "teamId": "30086000648508413"
+}
