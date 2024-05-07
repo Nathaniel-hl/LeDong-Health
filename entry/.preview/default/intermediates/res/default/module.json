@@ -3,6 +3,7 @@
     {
         "apiReleaseType" : "Release",
         "bundleName" : "com.example.wutsport",
+        "bundleType" : "app",
         "compileSdkType" : "OpenHarmony",
         "compileSdkVersion" : "4.0.10.13",
         "debug" : true,

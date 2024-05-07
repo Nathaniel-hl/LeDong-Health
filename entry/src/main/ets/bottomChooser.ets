@@ -83,8 +83,8 @@ export default struct bottomChooser {
       //我的图标
       Column() {
         Image(this.isMinePage ? $r('app.media.minePage_true') : $r('app.media.minePage_false'))
-          .width('5%')
-          .height('30%')
+          .width('6%')
+          .height('35%')
           .onClick(() => {
             if (this.isMinePage) {
               return
@@ -95,7 +95,7 @@ export default struct bottomChooser {
               })
             }
           })
-        Text('我的')
+        Text('mine')
       }
     }
     .justifyContent(FlexAlign.SpaceAround)
