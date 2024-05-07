@@ -11,6 +11,7 @@
 		"targetAPIVersion": 10,
 		"minAPIVersion": 10,
 		"compileSdkType": "OpenHarmony",
+		"bundleType": "app",
 		"debug": true
 	},
 	"module": {
