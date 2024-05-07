@@ -1,8 +1,0 @@
-com.example.wutsport.app-pngs-0 D:\3S\WUTSport\.arkui-x\android\app\build\generated\res\pngs\release
-com.example.wutsport.app-resValues-1 D:\3S\WUTSport\.arkui-x\android\app\build\generated\res\resValues\release
-com.example.wutsport.app-rs-2 D:\3S\WUTSport\.arkui-x\android\app\build\generated\res\rs\release
-com.example.wutsport.app-mergeReleaseResources-3 D:\3S\WUTSport\.arkui-x\android\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
-com.example.wutsport.app-mergeReleaseResources-4 D:\3S\WUTSport\.arkui-x\android\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
-com.example.wutsport.app-merged_res-5 D:\3S\WUTSport\.arkui-x\android\app\build\intermediates\merged_res\release
-com.example.wutsport.app-main-6 D:\3S\WUTSport\.arkui-x\android\app\src\main\res
-com.example.wutsport.app-release-7 D:\3S\WUTSport\.arkui-x\android\app\src\release\res
