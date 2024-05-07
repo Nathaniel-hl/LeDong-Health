@@ -1,0 +1,876 @@
+{
+  "version": "2.0",
+  "ppid": 21236,
+  "events": [
+    {
+      "head": {
+        "id": "08fde9ad-30c5-49e3-8749-2032814285fc",
+        "name": "watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806622231200
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "2f80a167-71e2-40af-ae5d-6c64f6983552",
+        "name": "init",
+        "description": "Initialize and build task graph.",
+        "type": "duration"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806626624100,
+        "endTime": 996808236754200
+      },
+      "additional": {
+        "children": [],
+        "state": "success",
+        "targetName": "",
+        "moduleName": "",
+        "category": "Init",
+        "taskRunReasons": [],
+        "logId": "521024c1-1e7f-4016-a0df-757b0879e9f7"
+      },
+      "log": {
+        "_logger": {
+          "category": "DurationEvent",
+          "context": {},
+          "callStackSkipIndex": 0
+        },
+        "_filelogger": {
+          "category": "debug-file",
+          "context": {},
+          "callStackSkipIndex": 0
+        }
+      }
+    },
+    {
+      "head": {
+        "id": "e52af82c-5ca0-4812-ae32-00f344af1aa9",
+        "name": "Hvigor init with startParameters:{\n  hvigorfileTypeCheck: false,\n  parallelExecution: true,\n  incrementalExecution: true,\n  printStackTrace: false,\n  daemon: true,\n  analyze: 0,\n  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }\n}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806629421600
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "9fdf4832-fe3a-4623-8472-e264f3b9d09b",
+        "name": "Cache service initialization finished in 7 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806636540000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "edb36810-48a3-4500-93b4-a660dbc855ba",
+        "name": "hvigorfile, resolving D:\\3S\\WUTSport\\LeDong-Health\\hvigorfile.ts",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806638682200
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "93f81d14-fd69-4b5b-a5b2-21cf3b2e6a8f",
+        "name": "hvigorfile, require result:  { AppTasksForArkUIX: [Getter] }",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996807972858800
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "98d47b0a-9247-4ee3-becf-5d8820aefe87",
+        "name": "hvigorfile, binding system plugins { AppTasksForArkUIX: [Getter] }",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996807973117000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "d924244a-55e8-4d5a-9fb3-43bebd7086a6",
+        "name": "hvigorfile, resolve finished D:\\3S\\WUTSport\\LeDong-Health\\hvigorfile.ts",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808146949000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "8fd46034-87b6-45fa-ac52-127424ea770f",
+        "name": "hvigorfile, resolving D:\\3S\\WUTSport\\LeDong-Health\\entry\\hvigorfile.ts",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808147871400
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "ae7d0303-8957-4a74-8b4e-6930c11e5a64",
+        "name": "hvigorfile, require result:  { HapTasks: [Getter] }",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808152579000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "1db21ea7-501c-44b2-9fb1-5f23a2c32909",
+        "name": "hvigorfile, binding system plugins { HapTasks: [Getter] }",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808152742000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "28ac8235-f28d-409a-b72e-4e2b9e70c379",
+        "name": "Module entry Collected Dependency: ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808161517500
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "f9be8a1e-28f4-48b6-a011-d8450f7ac0cb",
+        "name": "Module entry's total dependency: 0",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808161693000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "14f0097a-104d-4093-85fa-402eec7e2d98",
+        "name": "Start initialize module-target build option map, moduleName=entry, buildMode=debug",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808165584700
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "3c605224-0a09-4348-a5cd-19426cc9ddef",
+        "name": "Target 'default' config: {}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808165878200
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "2caa3213-95a9-4c49-a48d-2048da8001bf",
+        "name": "Target 'ohosTest' config: {}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808166927000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "203f11c0-18a0-4588-a38c-52c56e659e0c",
+        "name": "Module 'entry' target 'default' build option: {\n  \"debuggable\": true,\n  \"copyFrom\": \"default\",\n  \"arkOptions\": {},\n  \"name\": \"debug\"\n}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808167356300
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "5a92c14e-a40c-4fbe-9df0-e63384abf4ed",
+        "name": "Module 'entry' target 'ohosTest' build option: {\n  \"debuggable\": true,\n  \"arkOptions\": {},\n  \"name\": \"default\"\n}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808167442700
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "30a61302-586b-4c78-9319-c0f42638f18d",
+        "name": "End initialize module-target build option map, moduleName=entry",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808167580300
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "377a211b-ba0d-4572-8aae-d834ccf991cf",
+        "name": "Module 'entry' target 'default' using build option: {\n  \"debuggable\": true,\n  \"copyFrom\": \"default\",\n  \"arkOptions\": {},\n  \"name\": \"debug\"\n} in this build.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808167804600
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "0d2d324f-e74b-4ef7-8bb0-2d926e7bbdea",
+        "name": "require SDK: toolchains,ArkTS; moduleName=entry",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808171656400
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "e3e85e49-b28a-4afe-8003-10f9790c5a15",
+        "name": "Module entry task initialization takes 5 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808177354000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "2f110761-1fe3-451f-b847-3be058880873",
+        "name": "hvigorfile, resolve finished D:\\3S\\WUTSport\\LeDong-Health\\entry\\hvigorfile.ts",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808177452800
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "3bcd4f91-c4d1-40a7-8ad1-950a9852e5fe",
+        "name": "hvigorfile, resolve hvigorfile dependencies in 17 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808193942700
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "ef323959-90d6-4775-825b-a075f7889eea",
+        "name": "Start initialize project's product build option map with build mode debug.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808194573600
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "bb14e8ae-6c5a-4244-8ac0-fda3fcbca635",
+        "name": "Picking option from product 'default' with build mode 'debug'.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808194737300
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "4faa5eb9-4440-4b79-9844-41f5f42d36c1",
+        "name": "Product 'default' build option: {}",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808194816500
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "6b40ae13-9f03-41cc-a4d1-2c91350c4d27",
+        "name": "End initialize project's product build option map with build mode 'debug'.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808194865500
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "e7984b07-8c2e-401a-bda8-f56d8368c8dd",
+        "name": "Module LeDong-Health Collected Dependency: ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808195234200
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "b35616b1-2c98-46b6-9069-b09e3d7cba1b",
+        "name": "Module LeDong-Health's total dependency: 0",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808195298400
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "721815fb-ac45-46c6-a93a-9ec7121163e4",
+        "name": "Product 'default' using build option: {\n  \"debuggable\": true\n} in this build.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808196954500
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "be0b6bc2-6357-499e-9cd8-915c2bdb663c",
+        "name": "Sdk init in 3 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808203026400
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "5d7c0126-a040-46df-938d-04f5e6752556",
+        "name": "sdkVersion",
+        "description": "4.0.10.13",
+        "type": "mark"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808203193700
+      },
+      "additional": {
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "day": 7,
+          "hour": 22,
+          "minute": 30
+        },
+        "markType": "other"
+      }
+    },
+    {
+      "head": {
+        "id": "527450fc-2830-4b8f-be43-bea7fbe426c4",
+        "name": "Project task initialization takes 13 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808216681800
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "a7af2743-7d93-436b-8ebb-c5e048cbba18",
+        "name": "Sdk init in 2 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808218726000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "58ab5560-cf73-445d-bace-1ae37c31c810",
+        "name": "Sdk init in 3 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808226619800
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "91c38027-7c53-4c8d-9a07-215c6b614fe4",
+        "name": "Module entry Collected Dependency: ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808230055900
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "0fbc9776-d6f9-4d1b-8277-a9a48a95ab44",
+        "name": "Module entry's total dependency: 0",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808230145500
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "83d08fc7-0526-4625-9d02-ebc435e50fa6",
+        "name": "Module 'entry' target 'ohosTest' using build option: {\n  \"debuggable\": true,\n  \"arkOptions\": {},\n  \"name\": \"default\"\n} in this build.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808231844900
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "02628ef5-479a-4e89-9ffd-d8389042eeb5",
+        "name": "require SDK: toolchains,ArkTS; moduleName=entry",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808232460900
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "77d73d9c-9eba-4b4f-be17-a6c3da6abb1f",
+        "name": "Sdk init in 1 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808233760000
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "b6e9dd1b-8b8e-4f27-b4cf-60476ccf625e",
+        "name": "project has submodules:entry",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808234415100
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "0ae06fc5-2ecf-4c1a-b89a-c20904f699f6",
+        "name": "Configuration phase cost:1 s 599 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808235241900
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "521024c1-1e7f-4016-a0df-757b0879e9f7",
+        "name": "init",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806626624100,
+        "endTime": 996808236754200
+      },
+      "additional": {
+        "logType": "info",
+        "children": [],
+        "durationId": "2f80a167-71e2-40af-ae5d-6c64f6983552"
+      }
+    },
+    {
+      "head": {
+        "id": "f6eb8cbc-deae-477c-ad48-32f712d5bb23",
+        "name": "Configuration task cost before running: 1 s 612 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808237282300
+      },
+      "additional": {
+        "logType": "debug",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "d5cdc086-4595-41b0-bcdc-596850d41bec",
+        "name": "Task '' not found in root project 'LeDong-Health'. Invalid command to execute the build task, please verify the parameters in the command and try again.",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808237722300
+      },
+      "additional": {
+        "logType": "error",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "6d95d7fc-bfdf-4ffc-93e2-d3424a7ca117",
+        "name": "* Try the following:\n> Run 'hvigorw --help' to learn more about hvigor command.\n> Run 'hvigorw tasks' to get a list of available tasks.\n> Run the command with '--info' or '--debug' option to get more log output.\n",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808237875300
+      },
+      "additional": {
+        "logType": "info",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "0856c028-3a01-48af-b797-9577368a2f2f",
+        "name": "BUILD FAILED in 1 s 612 ms ",
+        "description": "",
+        "type": "log"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996808237974800
+      },
+      "additional": {
+        "logType": "error",
+        "children": []
+      }
+    },
+    {
+      "head": {
+        "id": "b1e117f0-815e-4aa5-8021-f28b83bf9cd2",
+        "name": "",
+        "description": "",
+        "type": "mark"
+      },
+      "body": {
+        "pid": 34820,
+        "tid": "Main Thread",
+        "startTime": 996806626237500,
+        "endTime": 996808238226800
+      },
+      "additional": {
+        "time": {
+          "year": 2024,
+          "month": 5,
+          "day": 7,
+          "hour": 22,
+          "minute": 30
+        },
+        "completeCommand": "{\"prop\":[],\"parallel\":true,\"incremental\":true,\"daemon\":true,\"_\":[]};",
+        "hvigorVersion": "4.1.2",
+        "markType": "history",
+        "category": "build",
+        "state": "failed"
+      }
+    }
+  ]
+}
